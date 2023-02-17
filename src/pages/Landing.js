@@ -15,9 +15,13 @@ const Landing = () => {
             job <span>tracking</span> app
           </h1>
           <p>
-            Crucifix narwhal street art asymmetrical, humblebrag tote bag pop-up
-            fixie raclette taxidermy craft beer. Brunch bitters synth, VHS
-            crucifix heirloom meggings bicycle rights.
+            “Nothing in the world can take the place of persistence. Talent will
+            not; nothing is more common than unsuccessful men with talent.
+            Genius will not; unrewarded genius is almost a proverb. Education
+            will not; the world is full of educated derelicts. Persistence and
+            determination alone are omnipotent. The slogan "press on" has solved
+            and will always solve the problems of the human race.” – Calvin
+            Coolidge
           </p>
           <Link to="/register" className="btn btn-hero">
             Login/Register
